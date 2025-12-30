@@ -1,50 +1,60 @@
-<h1 align="center">Hi, I'm Arbaaz 👋</h1>
+<h1 align="center">Hi 👋, I'm Arbaaz Mansuri</h1>
+<h3 align="center">🚀 Frontend Engineer passionate about building fast, scalable, and user-friendly web applications.
+  I specialize in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js, with hands-on experience creating responsive UIs using Tailwind CSS, shadcn/ui, and Material UI.
+  I focus on clean code, reusable components, performance optimization, and pixel-perfect interfaces.
+  <strong>📩 Open to Frontend Engineer opportunities — feel free to connect or message me to discuss roles, projects, or collaborations.</strong>
+</h3>
 
-<p align="center">
-  <strong>Frontend Engineer</strong>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-dwivedi-1357ad/)
 
----
-
-## 🚀 About Me
-- 🔹 Frontend Developer experienced in **React.js, Next.js (App Router), JavaScript, TypeScript, TailwindCSS**
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-- React.js, Next.js (App Router), Redux Toolkit  
-- JavaScript, TypeScript  
-- TailwindCSS, NextUI
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧩 Highlighted Projects
 
+### 🎯 **Signalist - Real Time Stocks Tracking App**
+**Tech:** Better Auth, Javascript / React, CodeRabbit, Finnhub, Inngest, MongoDB, Nodemailer, Next.js, Shadcn, TailwindCSS, Typescript.  
+**Description:** AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis, perfect for devs who want a dynamic, real-time financial platform.  
+**Source Code:** [https://github.com/arbaaz1999/real-time_stocks_tracking_app](https://github.com/arbaaz1999/real-time_stocks_tracking_app)  
+**Demo:**   [https://real-time-stocks-tracking-app.vercel.app](https://real-time-stocks-tracking-app.vercel.app)
+
+
 ### 🎯 **Pixxel - AI Image Editor**
-**Tech:** Next.js 15 (App Router), Javascript, Redux, Tailwind, Image Upload (Imagekit.io), FabricJS, ShadcnUI. 
+**Tech:** Next.js 15 (App Router), Javascript, Redux, Tailwind, Image Upload (Imagekit.io), FabricJS, ShadcnUI.
 
 ---
 
-## 📈 GitHub Analytics
-
+## 📈 GitHub Achievments
 <p align="center">
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="165" />
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="165" />
 </p>
-
----
-
-## 🧠 Currently Learning
-- Frontend Architecture/ Frontend System Design.  
-- Micro-Frontends.
-- PWA (Progressive Web App)
-
----
-
-## 🤝 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/arbaaz1999
-**GitHub:** https://github.com/arbaaz1999
-**Email:** arbaazmansuri09@gmail.com
 
 ---
 
