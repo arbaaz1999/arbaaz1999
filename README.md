@@ -38,15 +38,25 @@
 
 ## 🧩 Highlighted Projects
 
-### 🎯 **Signalist - Real Time Stocks Tracking App**
+### 💹 **Signalist - Real Time Stocks Tracking App**
 **Tech:** Better Auth, Javascript / React, CodeRabbit, Finnhub, Inngest, MongoDB, Nodemailer, Next.js, Shadcn, TailwindCSS, Typescript.  
 **Description:** AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis, perfect for devs who want a dynamic, real-time financial platform.  
 **Source Code:** [https://github.com/arbaaz1999/real-time_stocks_tracking_app](https://github.com/arbaaz1999/real-time_stocks_tracking_app)  
 **Demo:**   [https://real-time-stocks-tracking-app.vercel.app](https://real-time-stocks-tracking-app.vercel.app)
 
 
-### 🎯 **Pixxel - AI Image Editor**
-**Tech:** Next.js 15 (App Router), Javascript, Redux, Tailwind, Image Upload (Imagekit.io), FabricJS, ShadcnUI.
+### 🎯 **Pixxel - AI Image Editor**  
+**Tech:** NextJS, Javascript / React, FabricJS, Imagekit.io, Clerk Auth, CovexDB, TailwindCSS, ShadcnUI, Context API  
+**Description:** Pixxel is a subscription-based SaaS AI Image Editor built with Next.js (App Router). It provides a modern, browser-based canvas editor with AI-powered transformations and traditional image-editing features so users can crop, resize, add text, adjust colors, replace or remove backgrounds, extend canvases, perform AI edits and enhancements, and export final assets.  
+**Source Code:** [ https://github.com/arbaaz1999/pixxel](https://github.com/arbaaz1999/pixxel)  
+**Demo:** [https://pixxel-teal.vercel.app/](https://pixxel-teal.vercel.app/)  
+
+
+### 👨🏻‍🎓 **Personal Protfolio Website**  
+**Tech:** Next.js, TailwindCSS, ShadcnUI, Typescript
+**Description:** A stunning, futuristic personal portfolio showcasing full-stack development expertise with a cyberpunk-inspired dark theme. Built with NextJS, TailwindCSS, and Shadcn UI components, this fully responsive website features neon-glow aesthetics, smooth animations, and interactive elements.  
+**Source Code:** [https://github.com/arbaaz1999/portfolio](https://github.com/arbaaz1999/portfolio)  
+**Demo:** [https://arbaaz-mansuri.vercel.app/](https://arbaaz-mansuri.vercel.app/)
 
 ---
 
