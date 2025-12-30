@@ -36,6 +36,40 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+## 🧑‍💻 Professional Experience
+
+### 🏢 **Upside Down Pvt. Ltd.**
+**Associate Software Engineer**  
+📍 *Bengaluru, India (Remote)*  
+🗓️ *Aug 2023 – Dec 2024*
+
+**Tech:** Next.js, React.js, TypeScript, TailwindCSS, Axios, IndexedDB, Telegram Mini Apps  
+
+**Description:**
+- Developed a **Telegram Mini-App from scratch** using Next.js, taking full ownership of UI development and building a responsive, interactive interface with TailwindCSS.
+- Seamlessly integrated backend APIs using **Axios** for dynamic data handling and real-time updates.
+- Optimized application load performance using **IndexedDB caching**, enabling instant data availability on initial load while asynchronously syncing fresh data in the background.
+- Implemented a **robust token refresh mechanism** using Axios interceptors, ensuring uninterrupted user sessions and eliminating visible authentication issues.
+- Applied advanced **web performance optimizations** including lazy loading, code splitting, preloading/prefetching, dynamic image serving, and dead code elimination.
+- Collaborated with cross-functional teams to deliver **scalable web applications and POCs** using modern frontend technologies.
+
+---
+
+### 🏢 **Codiotic Technologies Pvt. Ltd.**
+**Junior Software Engineer**
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, TailwindCSS  
+
+**Description:**
+- Gained hands-on experience with the **MERN stack**, building full-stack applications from scratch.
+- Developed **responsive and interactive user interfaces** using React.js and TailwindCSS.
+- Built and integrated **RESTful APIs** using Node.js, Express.js, and MongoDB to support frontend features and data workflows.
+
+---
+
+
 ## 🧩 Highlighted Projects
 
 ### 💹 **Signalist - Real Time Stocks Tracking App**
