@@ -87,7 +87,7 @@
 
 
 ### 👨🏻‍🎓 **Personal Protfolio Website**  
-**Tech:** Next.js, TailwindCSS, ShadcnUI, Typescript
+**Tech:** Next.js, TailwindCSS, ShadcnUI, Typescript  
 **Description:** A stunning, futuristic personal portfolio showcasing full-stack development expertise with a cyberpunk-inspired dark theme. Built with NextJS, TailwindCSS, and Shadcn UI components, this fully responsive website features neon-glow aesthetics, smooth animations, and interactive elements.  
 **Source Code:** [https://github.com/arbaaz1999/portfolio](https://github.com/arbaaz1999/portfolio)  
 **Demo:** [https://arbaaz-mansuri.vercel.app/](https://arbaaz-mansuri.vercel.app/)
