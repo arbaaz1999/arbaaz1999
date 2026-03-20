@@ -43,7 +43,7 @@
 ### 🏢 **Upside Down Pvt. Ltd.**
 **Associate Software Engineer**  
 📍 *Bengaluru, India (Remote)*  
-🗓️ *Aug 2023 – Dec 2024*
+🗓️ *Aug 2023 – Jan 2025*
 
 **Tech:** Next.js, React.js, TypeScript, TailwindCSS, Axios, IndexedDB, Telegram Mini Apps  
 
@@ -59,6 +59,8 @@
 
 ### 🏢 **Codiotic Technologies Pvt. Ltd.**
 **Junior Software Engineer**
+📍 *Indore, India*  
+🗓️ *Nov 2022 – June 2023*
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, TailwindCSS  
 
