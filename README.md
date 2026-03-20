@@ -58,7 +58,7 @@
 ---
 
 ### 🏢 **Codiotic Technologies Pvt. Ltd.**
-**Junior Software Engineer**
+**Junior Software Engineer**  
 📍 *Indore, India*  
 🗓️ *Nov 2022 – June 2023*
 
